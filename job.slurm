@@ -1,6 +1,6 @@
 #! /bin/bash
 # ================================================
-#SBATCH --job-name=sumo_test
+#SBATCH --job-name=sumo_425
 
 #SBATCH --nodes=1
 #SBATCH --ntasks-per-node=1
